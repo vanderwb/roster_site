@@ -1,0 +1,38 @@
+body {
+	font-family:		sans-serif;
+}
+
+h1 {
+	font-size:			50px;
+}
+
+table {
+	width:				600px;
+}
+
+table, td, th {
+	border:				1px solid;
+	border-color:		#A0A0A0;
+	border-collapse:	collapse;
+}
+
+td, th {
+	padding: 5px;
+}
+
+th {
+	background-color:	#E0E0E0;
+}
+
+a {
+	color:				#0066CC;
+	text-decoration:	none;
+}
+
+a:hover {
+	color:				#0099FF;
+}
+
+a:active {
+	color:				#9999FF;
+}
